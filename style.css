@@ -1,0 +1,47 @@
+#enter{
+	background-color: #279F00;
+	color: white;
+	border:none;
+	display: inline-flex;
+	padding: 12px 30px;
+	text-align: center;
+	font-size: 15px;
+
+}
+
+.keys{
+
+	background-color: #6D99B4;
+	color: white;
+	border:none;
+	margin:2px;
+	width:111px;
+	display: block;
+	padding: 12px 30px;
+	text-align: center;
+	font-size: 15px;
+	cursor: not-allowed;
+
+}
+
+.keys:hover{
+
+	background-color: #91A6B4;
+
+}
+
+#unlockedbuttons{
+}
+
+#userinput{
+	padding: 8px 30px;
+	font-size: 15px;
+}
+
+.car{
+	margin-top: 50px;
+/*	margin-left: 50px;*/
+}
+.car2{
+	filter: alpha(opacity=50);
+}
